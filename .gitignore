@@ -6,5 +6,6 @@ img_data/val/Person/*
 img_data/val/Scene/*
 img_data/test/Person/*
 img_data/test/Scene/*
-models/*pth
-graphs/*png
+models/*/*.pth
+graphs/*/*.png
+output_txt/*/*.txt
